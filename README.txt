@@ -1,8 +1,3 @@
-Group Members: George Tsitsopoulos and Shane O'Brien
-Class: Programming Languages
-Professor: Carlos Varela
-Semester: Fall 2016
-
 Our code successfully performs Eta Reduction, Beta Reduction, and Alpha Renaming.
 
 Code Function:
